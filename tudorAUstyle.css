@@ -17,6 +17,11 @@ h3 {
 	font-family: Verdana, sans-serif;
 }
 
+h4 {
+	color: orange;
+	font-family: Times, serif;
+}
+
 p em {
 	color: purple;
 	font-style: italic;
@@ -31,6 +36,19 @@ p em {
 	font-style: bold;
 }
 
+.relationship-with-henry {
+	color: red;
+	font-style: serif;
+}
+
+.henrys-feelings-about {
+	color: black;
+	font-style: italic;
+}
+
+.death {
+	color: black;
+}
 #footer {
   color: green;
   font-size: 8;
