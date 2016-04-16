@@ -36,6 +36,14 @@ p em {
 	font-style: bold;
 }
 
+.professional-life {
+    color: green;
+}
+p.professional-life {
+    color: green;
+    text-decoration: underline;
+}
+	
 .relationship-with-henry {
 	color: red;
 	font-style: serif;
