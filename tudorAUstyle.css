@@ -63,41 +63,4 @@ p.professional-life {
   color: green;
   font-size: 8;
   font-style: italic;
-}body {
-	background-color: #DEEDE3;
-}
-p {
-	color: black;
-	font-family: Verdana, sans-serif;
-	font-size:10;
-}
-
-h1 {
-	color: purple;
-	font-family: Verdana, sans-serif;
-}
-
-h3 {
-	color: purple;
-	font-family: Verdana, sans-serif;
-}
-
-p em {
-	color: purple;
-	font-style: italic;
-}
-.issue {
-	color: blue;
-
-}
-
-.country-of-birth {
-	color: blue;
-	font-style: bold;
-}
-
-#footer {
-  color: green;
-  font-size: 8;
-  font-style: italic;
 }
