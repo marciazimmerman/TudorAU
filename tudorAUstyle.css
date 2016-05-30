@@ -1,5 +1,5 @@
 body {
-	background-color: #f2bf94;
+	background-color: #fa6be6;
 	height: 100%;
 	width: 100%;
 }
@@ -10,12 +10,12 @@ p {
 }
 
 h1 {
-	color: #98f294;
+	color: #7f6bfa;
 	font-family: Verdana, sans-serif;
 }
 
 h2 {
-	color: #94c7f2;
+	color: #6b9ffa;
 	font-family: Verdana, sans-serif;
 }
 
@@ -65,7 +65,7 @@ p.professional-life {
 	color: black;
 }
 #footer {
-  color: green;
+  color: #fa6b9f;
   font-size: 8;
   font-style: italic;
 }
