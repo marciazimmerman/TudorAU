@@ -1,5 +1,5 @@
 body {
-	background-color: #DEEDE3;
+	background-color: #f2bf94;
 	height: 100%;
 	width: 100%;
 }
@@ -10,12 +10,12 @@ p {
 }
 
 h1 {
-	color: purple;
+	color: #98f294;
 	font-family: Verdana, sans-serif;
 }
 
 h2 {
-	color: blue;
+	color: #94c7f2;
 	font-family: Verdana, sans-serif;
 }
 
@@ -47,7 +47,7 @@ p em {
     color: green;
 }
 p.professional-life {
-    color: green;
+    color: #ee94f2;
     text-decoration: underline;
 }
 	
